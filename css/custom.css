@@ -73,6 +73,18 @@ body {
     background: #ff5d1c;
 }
 
+.my-carousel-progress {
+    background: #ccc;
+}
+
+
+.my-carousel-progress-bar {
+    background: greenyellow;
+    height: 2px;
+    transition: width 400ms ease;
+    width: 0;
+}
+
 #section-2 {
     background: url("../images/background-section.png");
     background-size: cover;
