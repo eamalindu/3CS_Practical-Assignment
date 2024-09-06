@@ -56,6 +56,9 @@ video {
     color: #ff5d1c;
 }
 
+.border-orangered{
+    border-color: #ff5d1c!important;
+}
 .btn-orangered {
     background-color: #ff5d1c;
     color: white;
